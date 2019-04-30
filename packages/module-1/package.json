@@ -1,7 +1,7 @@
 {
-  "name": "module-1",
-  "version": "1.1.0",
+  "name": "gabriel-zhu-test-module-1",
+  "version": "1.2.0",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "a285bf7a376cda8d7d9fcbcf596af820850f359f"
+  "gitHead": "288dab4aa322111b609ec237bc764d93d9b56592"
 }
