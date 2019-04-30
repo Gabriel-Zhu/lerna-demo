@@ -1,6 +1,6 @@
 {
   "name": "lerna-repo-practice-gz-module-1",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "eae5a4a6815d0e9ab274da65053ff6910d6faca7"
